@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SocialPilot AI
 
 An AI-powered social media management and content workflow platform designed to streamline post creation, content ideas, and brand voice consistency from a single unified dashboard.
@@ -18,3 +19,7 @@ An AI-powered social media management and content workflow platform designed to 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/socialpilot-ai.git](https://github.com/YOUR_USERNAME/socialpilot-ai.git)
+
+# socialpilot-ai-
+SocialPilot is a comprehensive AI-powered social media management and content workflow platform designed to streamline scheduling, post creation, and brand persona management from a single unified dashboard
+ 1ff1692918e98639cdbf01bdbbbc114785d25cd1
