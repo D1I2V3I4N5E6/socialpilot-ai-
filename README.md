@@ -1,16 +1,20 @@
-# React + Vite
+# SocialPilot AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+An AI-powered social media management and content workflow platform designed to streamline post creation, content ideas, and brand voice consistency from a single unified dashboard.
 
-Currently, two official plugins are available:
+## Features
+- **AI Content Generator:** Instantly create platform-optimized posts and hooks.
+- **Voice & Persona Trainer:** Keep your distinct tone and style consistent across all content.
+- **Reply Generator:** Quickly draft engaging networking responses.
+- **Post Analyzer:** Break down performance and structure.
+- **Content Calendar & Storage:** Keep your strategy organized.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- **Frontend:** React, Vite, Tailwind CSS
+- **AI Integration:** Groq API
+- **Database:** Supabase
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Getting Started Locally
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/socialpilot-ai.git](https://github.com/YOUR_USERNAME/socialpilot-ai.git)
