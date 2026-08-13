@@ -1,13 +1,13 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
-import Dashboard from './pages/Dashboard';
-import AnalyzePost from './pages/AnalyzePost';
-import ReplyGenerator from './pages/ReplyGenerator';
-import MyVoice from './pages/MyVoice';
-import ContentIdeas from './pages/ContentIdeas';
-import ContentCalendar from './pages/ContentCalendar';
-import SavedContent from './pages/SavedContent';
+import Dashboard from './Pages/Dashboard';
+import AnalyzePost from './Pages/AnalyzePost';
+import ReplyGenerator from './Pages/ReplyGenerator';
+import MyVoice from './Pages/MyVoice';
+import ContentIdeas from './Pages/ContentIdeas';
+import ContentCalendar from './Pages/ContentCalendar';
+import SavedContent from './Pages/SavedContent';
 
 export default function App() {
   return (
